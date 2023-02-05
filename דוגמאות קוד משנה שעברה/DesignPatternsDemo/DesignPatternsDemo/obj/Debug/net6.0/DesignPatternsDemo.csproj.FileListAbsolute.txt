@@ -1,0 +1,15 @@
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net6.0\DesignPatternsDemo.exe
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net6.0\DesignPatternsDemo.deps.json
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net6.0\DesignPatternsDemo.runtimeconfig.json
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net6.0\DesignPatternsDemo.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net6.0\DesignPatternsDemo.pdb
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\DesignPatternsDemo.csproj.AssemblyReference.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\DesignPatternsDemo.AssemblyInfoInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\DesignPatternsDemo.AssemblyInfo.cs
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\DesignPatternsDemo.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\DesignPatternsDemo.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\refint\DesignPatternsDemo.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\DesignPatternsDemo.pdb
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\DesignPatternsDemo.genruntimeconfig.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\DesignPatterns\דוגמאות קוד משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net6.0\ref\DesignPatternsDemo.dll

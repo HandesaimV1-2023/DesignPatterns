@@ -1,0 +1,41 @@
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.csprojAssemblyReference.cache
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.AssemblyInfoInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.AssemblyInfo.cs
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.exe
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.deps.json
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.runtimeconfig.json
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.runtimeconfig.dev.json
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.dll
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.pdb
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.dll
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.pdb
+S:\HandesaimV\Public\חומר מהמורה\קבוצה 1\Design Patterns\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.genruntimeconfig.cache
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.exe
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.deps.json
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.runtimeconfig.json
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.runtimeconfig.dev.json
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.dll
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.pdb
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.csproj.AssemblyReference.cache
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.AssemblyInfoInputs.cache
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.AssemblyInfo.cs
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.csproj.CoreCompileInputs.cache
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.dll
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.pdb
+E:\Work\DesignPatterns\שעור 3\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.genruntimeconfig.cache
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.csproj.AssemblyReference.cache
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.AssemblyInfoInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.AssemblyInfo.cs
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.dll
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.pdb
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.exe
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.deps.json
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.runtimeconfig.json
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.runtimeconfig.dev.json
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.dll
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\netcoreapp3.1\DesignPatternsDemo.pdb
+S:\HandesaimV\Public\חומר מהמורה\‏‏Group2\DesignPatterns\CodeSample\משנה שעברה\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\netcoreapp3.1\DesignPatternsDemo.genruntimeconfig.cache
